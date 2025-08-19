@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Anna Vinod</h1>
-<h3 align="center">🎓 MSc Data Science (2024–2026) | 💡 Aspiring Data Analyst & AI Researcher | 📍 Bangalore, India</h3>
+<h2 align="center"> Hi, I'm Anna Vinod</h2>
+<h3 align="center">🎓 MSc Data Science (2024–2026) | 💡 Aspiring Data Scientist | 📍 Bangalore, India</h3>
 
 ---
 
@@ -8,9 +8,7 @@
 ## 🚀 About Me  
 
 🔹 Passionate about **solving real-world problems with data** and creating **interpretable AI systems**  
-🔹 Currently working on **Fetal Ultrasound AI (NeurIPS Dataset)** → *multi-task Vision Transformers for CRL/NT analysis & risk prediction*  
-🔹 Developing **Fuse Type Classification AI** → *explainable ViT-based safety model for electrical installations*  
-🔹 Creator of **Loibot Chatbot** → *multilingual, explainable NLP system for summarization, translation & drift detection*  
+🔹 Masters in Data Science
 🔹 Strong background in **Economics, Mathematics & Statistics** (Triple Major BSc)  
 
 ---
@@ -76,8 +74,7 @@
 
 <p align="center">
   <a href="mailto:annavinod00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/anna-vinod"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/anna-vinod"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/anna-vinod-9141b5255"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>  
 
 ---
