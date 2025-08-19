@@ -5,7 +5,7 @@
 ---
 
 <!-- About Me -->
-## 🚀 About Me  
+## About Me  
 
 🔹 Passionate about **solving real-world problems with data** and creating **interpretable AI systems**  
 🔹 Masters in Data Science
@@ -14,7 +14,7 @@
 ---
 
 <!-- Skills Section -->
-## 🛠️ Skills & Tools  
+## Skills & Tools  
 
 <p align="center">
   <!-- Languages -->
