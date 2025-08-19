@@ -55,21 +55,21 @@
 
 
 
-<!-- GitHub Analytics -->
-## 📊 GitHub Analytics  
 
+
+<!-- GitHub Analytics -->
 ## 📊 GitHub Analytics  
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=annavinod&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>  
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annavinod&layout=compact&theme=tokyonight&hide_border=true" height="160"/>  
 </p>  
 
 <p align="center">
   <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight"/>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annavinod&theme=tokyonight"/>  
 </p>  
 
 
