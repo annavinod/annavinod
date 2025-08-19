@@ -55,19 +55,7 @@
 
 ---
 
-<!-- Projects -->
-## 📂 Highlighted Projects  
 
-🔹 **[FUSEP – Fetal Ultrasound AI](#)**  
-*Unified HIRI-ViT for CRL/NT classification, NT measurement, abnormality risk prediction & anatomy detection with XAI.*  
-
-🔹 **[Fuse Type Classification (Electrical Safety AI)](#)**  
-*Fine-grained ViT-based model for real-world fuse identification, improving safety through interpretable predictions.*  
-
-🔹 **[Loibot Chatbot](#)**  
-*A multilingual, temporally-aware, and explainable chatbot with summarization, translation, drift detection & SHAP explainability.*  
-
----
 
 <!-- GitHub Analytics -->
 ## 📊 GitHub Analytics  
